@@ -1,0 +1,6 @@
+.todasLasTarjetas{
+    display: grid;
+    gap: 3px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0% 3%;  
+}

@@ -1,0 +1,15 @@
+.txtbtnDetalle{
+    color: beige;
+    text-decoration: none   ;
+}
+
+.cardTxt{
+    font-size: 100%;
+}
+.txtPrecio{
+    font-size: 200%;
+    font-weight: bold;
+}
+.divDetalle{
+    display: flex;
+}

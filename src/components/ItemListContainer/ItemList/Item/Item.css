@@ -1,0 +1,14 @@
+.tarjeta{
+    border-radius: 3px !important;
+    align-items: center;
+    justify-content: center;
+    width: 20rem
+}
+
+.cardTxt{
+    font-size: 100%;
+}
+.txtPrecio{
+    font-size: 200%;
+    font-weight: bold;
+}
